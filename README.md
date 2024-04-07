@@ -5,4 +5,5 @@ Hello, my name is Rashmi. I am a Data Engineer. I have done some interesting wor
 - 🌱 I’m currently learning data engineering skills and implementing
 - 👯 I’m looking to collaborate on Python projects
 - 📫 How to reach me: linkedin : https://www.linkedin.com/in/rashmi-mohapatra-8b51b664/
+- Blogs : Medium : https://medium.com/@rashmeemayee.mohapatra
 
